@@ -1,13 +1,12 @@
-## Welcome to GitHub Pages
+## Future location of Mike Chan's Resume
 
-You can use the [editor on GitHub](https://github.com/snotty/snotty.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[Github Editor](https://github.com/snotty/snotty.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+When committed, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages from your Markdown files.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
