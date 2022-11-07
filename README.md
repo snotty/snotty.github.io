@@ -1,4 +1,8 @@
-## Future location of Mike Chan's Resume
+## Mike Chan's Resume
+
+LinkeIn Profile: http://linkedin.com/in/mchan
+
+*****
 
 [Github Editor](https://github.com/snotty/snotty.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,7 +11,9 @@ When committed, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 ```markdown
+
 Syntax highlighted code block
 
 # Header 1
